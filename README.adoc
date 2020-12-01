@@ -106,7 +106,7 @@ endif::[]
 
 {firstName}:: Julien
 
-{group}::3B
+{group}:: 3B
 
 [%interactive]
 - [X] {Enseignants}
